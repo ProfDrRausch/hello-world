@@ -1,4 +1,4 @@
 # hello-world
-GitHub Tutorial Exercises
+GitHub Übungen
 
 Dies ist mein Versuch, anhand der GitHub Tutorials zu lernen.
